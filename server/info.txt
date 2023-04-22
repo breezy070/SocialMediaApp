@@ -1,0 +1,6 @@
+stopped video at 5:07:03 mins
+the problem might be the Posts Schema did have the s in comments so now you gotta delete it and make it again in the DB
+
+
+to start the mongoose connection you use the cmd nodemon in the server folder
+npm i express body-parser bcrypt cors dotenv gridfs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose
